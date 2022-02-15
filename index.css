@@ -64,3 +64,16 @@ input{
 #submit:hover{
     background-color:#0984e3;
 }
+
+
+#showScore{
+    background-color:#dfe6e9;
+    margin-top: 3rem;
+    padding: 3rem 4rem;
+    box-shadow: 0 1rem -0.7rem rgba(0, 0, 0, 0.4);
+}
+
+#showScore h3{
+    font-size: 3rem;
+    text-align: center;
+}
