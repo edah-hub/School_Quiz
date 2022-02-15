@@ -34,3 +34,9 @@ html{
     font-weight: 400;
     margin: 1rem 0 4rem 0;
 }
+
+.inner-div li{
+    font-size: 2rem;
+    margin-top: 1.5rem;
+    list-style: none;
+}
